@@ -2,7 +2,7 @@
 
 <h1 align="left">
   Olá, Bem-vindo ao meu Github
-  <img src="https://hackernoon.com/images/f2px36fy.gif" width="50" height="50">
+  <img src="https://hackernoon.com/images/f2px36fy.gif" width="200" height="200">
 </h1>
 
 ###
