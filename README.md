@@ -1,8 +1,10 @@
 <br clear="both">
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1>Olá, Bem-vindo ao meu Github</h1>
-  <img src="https://hackernoon.com/images/f2px36fy.gif" width="50" height="50">
+<div align="center">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <h1 style="margin: 0;">Olá, Bem-vindo ao meu Github</h1>
+    <img src="https://hackernoon.com/images/f2px36fy.gif" width="50" height="50">
+  </div>
 </div>
 
 ###
