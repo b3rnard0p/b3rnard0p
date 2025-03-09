@@ -58,7 +58,25 @@
 
 ###
 
+<h2 align="left">IDEs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
+
 <h2 align="left">Redes</h2>
+
+###
+
+<img align="right" height="100" src="https://hackernoon.com/images/f2px36fy.gif"  />
 
 ###
 
@@ -70,9 +88,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="100" src="https://hackernoon.com/images/f2px36fy.gif"  />
 
 ###
