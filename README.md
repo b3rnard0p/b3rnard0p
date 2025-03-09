@@ -1,6 +1,9 @@
 <br clear="both">
 
-<h1 align="left">Olá, Bem-vindo ao meu Github</h1>
+<h1 align="left">
+  Olá, Bem-vindo ao meu Github
+  <img src="https://hackernoon.com/images/f2px36fy.gif" width="50" height="50">
+</h1>
 
 ###
 
@@ -82,3 +85,4 @@
 </div>
 
 ###
+
