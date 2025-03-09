@@ -3,7 +3,7 @@
 <div align="center">
   <div style="display: flex; align-items: center; gap: 10px;">
     <h1 style="margin: 0;">Olá, Bem-vindo ao meu Github</h1>
-    <img src="https://hackernoon.com/images/f2px36fy.gif" width="50" height="50">
+    <img src="https://hackernoon.com/images/f2px36fy.gif" width="300" height="300">
   </div>
 </div>
 
