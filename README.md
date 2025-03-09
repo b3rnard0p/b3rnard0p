@@ -1,26 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <h1 style="margin: 0;">Olá, Bem-vindo ao meu Github</h1>
-    <img src="https://hackernoon.com/images/f2px36fy.gif" width="300" height="300">
-  </div>
-</div>
-
-###
-
-<p align="left">Meu nome é Bernardo Paz de Freitas, sou um solucionador de problemas, não importa a linguagem em que o problema esteja.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Tenho 20 anos, estou no quinto semestre de Sistemas de Informação, na UFN.</p>
-
-###
-
 <h2 align="left">Conhecimento em</h2>
 
 ###
@@ -73,7 +50,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/b3rnard0p/b3rnard0p/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Redes</h2>
+
+###
+
+<img align="right" height="100" src="https://hackernoon.com/images/f2px36fy.gif"  />
 
 ###
 
