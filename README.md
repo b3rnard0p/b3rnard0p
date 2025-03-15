@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">Ferramentas</h2>
+<h2 align="left">Deployments</h2>
 
 ###
 
