@@ -1,4 +1,4 @@
-<h2 align="left">Conhecimento em</h2>
+<h2 align="left">Dev</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">Deployments</h2>
+<h2 align="left">Ops</h2>
 
 ###
 
@@ -68,11 +68,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
 
 ###
 
-<h2 align="left">Redes</h2>
+<h2 align="left">networks</h2>
 
 ###
 
