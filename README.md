@@ -1,3 +1,11 @@
+<h1 align="center">My portfolio</h1>
+
+###
+
+<p align="center">As a Full Stack Developer, I have strong expertise in Front-end, Back-end, and Databases. I also have experience in infrastructure and deployment, contributing to the smooth and efficient operation of systems. Below are the technologies and tools I work with.</p>
+
+###
+
 <h2 align="left">Dev</h2>
 
 ###
