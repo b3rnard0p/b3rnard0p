@@ -75,12 +75,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
 
-###
+<hr />
 
-<p align="center">I have solid experience in Artificial Intelligence, focusing on developing automated agents using platforms such as n8n. I have extensive knowledge of APIs and proven ability to efficiently integrate systems and tools.
-I am constantly searching for new tools and technologies that can enhance software development and optimize processes, ensuring greater efficiency and innovative solutions.</p>
+<p align="center">
+  I have solid experience in Artificial Intelligence, focusing on developing automated agents using platforms such as n8n.  
+  I have extensive knowledge of APIs and proven ability to efficiently integrate systems and tools.  
+  I am constantly searching for new tools and technologies that can enhance software development and optimize processes, ensuring greater efficiency and innovative solutions.
+</p>
 
-###
+<hr />
+
 
 <h2 align="left">networks</h2>
 
