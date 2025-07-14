@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">As a Full Stack Developer, I have strong expertise in Front-end, Back-end, and Databases. I also have experience in infrastructure and deployment, contributing to the smooth and efficient operation of systems. Below are the technologies and tools I work with.</p>
+<p align="center">As a Full Stack Developer with solid experience in Artificial Intelligence—focusing on developing automated agents using platforms like n8n—and extensive knowledge of APIs, I excel at efficiently integrating systems and tools, from front-end and back-end development to database design and infrastructure deployment. I'm constantly seeking new technologies to enhance software development, optimize processes, and deliver innovative, high-performance solutions. Below are some of the tools and technologies I'm familiar with.</p>
 
 ###
 
@@ -74,17 +74,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
-
-<hr />
-
-<p align="center">
-  I have solid experience in Artificial Intelligence, focusing on developing automated agents using platforms such as n8n.  
-  I have extensive knowledge of APIs and proven ability to efficiently integrate systems and tools.  
-  I am constantly searching for new tools and technologies that can enhance software development and optimize processes, ensuring greater efficiency and innovative solutions.
-</p>
-
-<hr />
-
 
 <h2 align="left">networks</h2>
 
