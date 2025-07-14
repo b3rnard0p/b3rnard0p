@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
 
-<h2 />
+<hr />
 
 <p align="center">
   I have solid experience in Artificial Intelligence, focusing on developing automated agents using platforms such as n8n.  
@@ -83,7 +83,7 @@
   I am constantly searching for new tools and technologies that can enhance software development and optimize processes, ensuring greater efficiency and innovative solutions.
 </p>
 
-<h2 />
+<hr />
 
 
 <h2 align="left">networks</h2>
