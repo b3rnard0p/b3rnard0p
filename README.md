@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">As a Full Stack Developer with solid experience in Artificial Intelligence—focusing on developing automated agents using platforms like n8n—and extensive knowledge of APIs, I excel at efficiently integrating systems and tools, from front-end and back-end development to database design and infrastructure deployment. I'm constantly seeking new technologies to enhance software development, optimize processes, and deliver innovative, high-performance solutions. Below are some of the tools and technologies I'm familiar with.</p>
+<p align="center">As a Full Stack Developer with I excel at efficiently integrating systems and tools, from front-end and back-end development to database design and infrastructure deployment. I'm constantly seeking new technologies to enhance software development, optimize processes, and deliver innovative, high-performance solutions. Below are some of the tools and technologies I'm familiar with.</p>
 
 ###
 
