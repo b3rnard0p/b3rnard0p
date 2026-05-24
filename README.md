@@ -2,17 +2,11 @@
 
 <h1>Quem eu sou</h1>
 
----
-
-<p>Sou um desenvolvedor que não se prende a uma única linguagem ou framework. Não me apego à tecnologia, mas sim a utilizo dependendo do contexto — existem diversas, basta saber em qual projeto aplicar. Busco conhecimento constante, sempre evoluindo junto com a nossa área, que é muito dinâmica. Este GitHub serve como uma amostragem do meu conhecimento.</p>
-
----
+<p>Sou um desenvolvedor que não se prende a uma única linguagem ou framework. Não me apego à tecnologia, mas sim a utilizo dependendo do contexto, existem diversas, basta saber em qual projeto aplicar. Busco conhecimento constante, sempre evoluindo junto com a nossa área, que é muito dinâmica. Este GitHub serve como uma amostragem do meu conhecimento.</p>
 
 <h2>Tecnologias</h2>
 
 <p>Todas as tecnologias de desenvolvimento (linguagens, frameworks e bibliotecas) que já utilizei estão em meus repositórios. Eles levam o nome da tecnologia e sempre contêm estudos e projetos que realizei. Além disso, possuo repositórios dedicados exclusivamente aos meus conhecimentos teóricos.</p>
-
----
 
 <h2>Projetos</h2>
 
@@ -25,8 +19,6 @@
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
 * **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.com.br](https://bernardopaz.com.br).
 * **Elite Genética:** Um sistema de venda e compra de gado e gestão de serviços veterinários. Acesse: [elitegenetica.com.br](https://elitegenetica.com.br)
-
----
 
 <h2>Bibliografia</h2>
 
