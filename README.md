@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Meu GitHub</h1>
+<h1>Quem eu sou</h1>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h2>Projetos Pessoais</h2>
+<h2>Projetos</h2>
 
 <p>Além dos repositórios de estudos, desenvolvi os seguintes projetos:</p>
 
@@ -24,6 +24,7 @@
 * **Minerva:** Sistema de gestão de tempo de estudo que utiliza um modelo de IA para auxiliar o usuário a definir prioridades.
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
 * **b3rnard0p:** Meu sistema de portfólio pessoal.
+* **Elite Genética:** Um sistema de venda e comrpa de gado e gestão de serviços veterinários, link: elitegenetica.com.br
 
 ---
 
