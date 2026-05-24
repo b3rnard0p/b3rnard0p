@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h1>Meu GitHub</h1>
 
@@ -32,11 +32,3 @@
 <p><em>Clean Code</em>, <em>Clean Architecture</em> e <em>The Clean Coder</em> (Robert C. Martin)</p>
 
 </div>
-
-<div align="left">
-  <a href="https://www.instagram.com/b3rnard0p/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
