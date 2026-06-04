@@ -15,7 +15,6 @@
 * **Victus:** Sistema de gestão alimentar para hospitais, desenvolvido em parceria com o curso de Nutrição (levantamento de requisitos, modelagem, desenvolvimento e testes).
 * **Synapse:** Aplicativo mobile de filmes, onde o usuário acompanha os cartazes e estreias, com funcionalidade de compra de ingressos com desconto.
 * **Baratie:** Aplicativo mobile para gestão e compartilhamento de dietas e refeições.
-* **Minerva:** Sistema de gestão de tempo de estudo que utiliza um modelo de IA para auxiliar o usuário a definir prioridades.
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
 * **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.com.br](https://bernardopaz.com.br).
 * **Elite Genética:** Um sistema de venda e compra de gado e gestão de serviços veterinários. Acesse: [elitegenetica.com.br](https://elitegenetica.com.br)
