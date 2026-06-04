@@ -16,7 +16,8 @@
 * **Synapse:** Aplicativo mobile de filmes, onde o usuário acompanha os cartazes e estreias, com funcionalidade de compra de ingressos com desconto.
 * **Baratie:** Aplicativo mobile para gestão e compartilhamento de dietas e refeições.
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
-* **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.com.br](https://bernardopaz.tech).
+* **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.tech](https://bernardopaz.tech).
+* **Bem-Estar** Sistema de gestão de clinica. Acesse: [bem-estar.onrender.com](https://bem-estar.onrender.com).
 * **Elite Genética:** Um sistema de venda e compra de gado e gestão de serviços veterinários. Acesse: [elitegenetica.com.br](https://elitegenetica.com.br)
 
 <h2>Bibliografia</h2>
