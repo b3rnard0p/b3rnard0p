@@ -15,6 +15,7 @@
 * **Victus:** Sistema de gestão alimentar para hospitais, desenvolvido em parceria com o curso de Nutrição (levantamento de requisitos, modelagem, desenvolvimento e testes).
 * **Synapse:** Aplicativo mobile de filmes, onde o usuário acompanha os cartazes e estreias, com funcionalidade de compra de ingressos com desconto.
 * **Baratie:** Aplicativo mobile para gestão e compartilhamento de dietas e refeições.
+* **Cronos:** Sistema web de predição de resultados dos jogos da copa do mundo, utilizando Ciência de Dados e Machine Learning.
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
 * **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.tech](https://bernardopaz.tech).
 * **Bem-Estar** Sistema de gestão de clinica. Acesse: [bem-estar.onrender.com](https://bem-estar.onrender.com).
