@@ -18,11 +18,11 @@
 * **Cronos:** Sistema web de predição de resultados dos jogos da copa do mundo, utilizando Ciência de Dados e Machine Learning.
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
 * **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.tech](https://bernardopaz.tech).
-* **Bem-Estar** Sistema de gestão de clinica. Acesse: [bem-estar.onrender.com](https://bem-estar.onrender.com).
+* **Bem-Estar:** Sistema de gestão de clinica. Acesse: [bem-estar.onrender.com](https://bem-estar.onrender.com).
 * **Elite Genética:** Um sistema de venda e compra de gado e gestão de serviços veterinários. Acesse: [elitegenetica.com.br](https://elitegenetica.com.br)
 
 <h2>Bibliografia</h2>
 
-<p><em>Clean Code</em>, <em>Clean Architecture</em> e <em>The Clean Coder</em> (Robert C. Martin)</p>
+<p><em>Clean Code</em>, <em>Clean Architecture</em>, <em>The Clean Coder</em> e <em>The Pragmatic Programmer</em></p>
 
 </div>
