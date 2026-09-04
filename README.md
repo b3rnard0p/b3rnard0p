@@ -17,6 +17,7 @@
 * **Baratie:** Aplicativo mobile para gestão e compartilhamento de dietas e refeições.
 * **Cronos:** Sistema web de predição de resultados dos jogos da copa do mundo, utilizando Ciência de Dados e Machine Learning.
 * **Ourique:** Sistema de simulação bancária com integração a um painel de administrador.
+* **Limbus:** Mapa Interativo da Divina Comédia. Acesse: [limbus-gahv.onrender.com](https://limbus-gahv.onrender.com).
 * **b3rnard0p:** Meu sistema de portfólio pessoal. Acesse: [bernardopaz.tech](https://bernardopaz.tech).
 * **Bem-Estar:** Sistema de gestão de clinica. Acesse: [bem-estar.onrender.com](https://bem-estar.onrender.com).
 * **Elite Genética:** Um sistema de venda e compra de gado e gestão de serviços veterinários. Acesse: [elitegenetica.com.br](https://elitegenetica.com.br)
