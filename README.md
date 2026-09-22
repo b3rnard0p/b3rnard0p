@@ -1,7 +1,7 @@
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td valign="top" align="left">
-<pre>
+    <td width="45%" valign="top" align="left">
+<pre style="font-size: 5px; line-height: 5px; font-family: monospace;">
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO00000000000000000000000000000000000000000000000000OOOkkxol:;;;;clodxkkkxkkkkOOOOOOOOOkdddoodkO00Okk000000KKKK00000000KK000000000000000000000KKKKKKKKKKKKKKKKKKKKKKKK
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO000000000000000000000000000000000000000000000000OOkkxolc:,''....'';:lodollodxkkkkkkkxolddloxkOOkxdkO00000KK000000000KKK000000000000KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO0000000000000000000000000000000000OO00OOO0OOkxdolc;;,''..............',,;clodxxkxdddoccooldxkkxdddkOO0000KK0KKKKKKKKKKK0000000000000KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
@@ -104,7 +104,7 @@ codxkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOO00000000000KKKKKKKKKx;,,,,,,,,,;;;;;;:::::;;
 ;,,,,,,,,,,,,,,',,,''''''''''''''''''''''''....'.''''''..........'''''',,,,,,,,,,''',;:coxkOkxoc:,'............................'''''''''''........''''',''','''''''',,,,,,;;;;;;;;;;;;;;;;;,'',;;;;;;;::
 </pre>
     </td>
-    <td valign="top" align="left">
+    <td width="55%" valign="top" align="left">
       <h3>💻 Quem eu sou</h3>
       <p>Sou um desenvolvedor que não se prende a uma única linguagem ou framework. Não me apego à tecnologia, mas sim a utilizo dependendo do contexto, existem diversas, basta saber em qual projeto aplicar. Busco conhecimento constante, sempre evoluindo junto com a nossa área, que é muito dinâmica. Este GitHub serve como uma amostragem do meu conhecimento.</p>
       
@@ -119,14 +119,14 @@ codxkkkkkkkkkkkkkkkOOOOOOOOOOOOOOOOO00000000000KKKKKKKKKx;,,,,,,,,,;;;;;;:::::;;
       <p>Além dos repositórios de estudos, desenvolvi os seguintes projetos:</p>
       <ul>
         <li><b>Victus:</b> Sistema de gestão alimentar para hospitais, desenvolvido em parceria com o curso de Nutrição.</li>
-        <li><b>Synapse:</b> Aplicativo mobile de filmes, onde o usuário acompanha os cartazes e estreias, com funcionalidade de compra de ingressos.</li>
-        <li><b>Baratie:</b> Aplicativo mobile para gestão e compartilhamento de dietas e refeições.</li>
-        <li><b>Cronos:</b> Sistema web de predição de resultados dos jogos da copa do mundo, utilizando Ciência de Dados e Machine Learning.</li>
-        <li><b>Ourique:</b> Sistema de simulação bancária com integração a um painel de administrador.</li>
-        <li><b>Limbus:</b> Mapa Interativo da Divina Comédia. Acesse: <a href="https://limbus-gahv.onrender.com">limbus-gahv.onrender.com</a>.</li>
-        <li><b>b3rnard0p:</b> Meu sistema de portfólio pessoal. Acesse: <a href="https://bernardopaz.tech">bernardopaz.tech</a>.</li>
-        <li><b>Bem-Estar:</b> Sistema de gestão de clinica. Acesse: <a href="https://bem-estar.onrender.com">bem-estar.onrender.com</a>.</li>
-        <li><b>Elite Genética:</b> Um sistema de venda e compra de gado e gestão de serviços veterinários. Acesse: <a href="https://elitegenetica.com.br">elitegenetica.com.br</a></li>
+        <li><b>Synapse:</b> Aplicativo mobile de filmes.</li>
+        <li><b>Baratie:</b> App mobile para gestão e compartilhamento de dietas.</li>
+        <li><b>Cronos:</b> Sistema web de predição de resultados esportivos.</li>
+        <li><b>Ourique:</b> Sistema de simulação bancária.</li>
+        <li><b>Limbus:</b> Mapa Interativo da Divina Comédia (<a href="https://limbus-gahv.onrender.com">link</a>).</li>
+        <li><b>b3rnard0p:</b> Meu portfólio (<a href="https://bernardopaz.tech">link</a>).</li>
+        <li><b>Bem-Estar:</b> Sistema de clínica (<a href="https://bem-estar.onrender.com">link</a>).</li>
+        <li><b>Elite Genética:</b> Sistema agropecuário (<a href="https://elitegenetica.com.br">link</a>).</li>
       </ul>
 
       <br/>
